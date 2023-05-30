@@ -5,4 +5,4 @@ This repository contains the source code for the VS Code extension developed by 
 ## Features
 
 - Intelligent code suggestions based on the entire codebase
-- Seamless integration into your Visual Studio Code IDE
+- Seamless integration into your [Visual Studio Code IDE](https://code.visualstudio.com)
